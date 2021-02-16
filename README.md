@@ -1,8 +1,14 @@
 
+<p align="center">
+  <img width="175" height="175" src="https://i.ibb.co/K6RrTjc/logo.png">
+</p>
 
-<img width=12.5% src="https://i.ibb.co/K6RrTjc/logo.png">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Work_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin-nt">
+  <img src="https://img.shields.io/badge/-Personal_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin">
+  <img src="https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com)](https://discordapp.com">
+</p>
 
-[![Github Badge](https://img.shields.io/badge/-Work_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin-nt)](https://github.com/andrewgosselin-nt) [![Github Badge](https://img.shields.io/badge/-Personal_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin)](https://github.com/andrewgosselin) [![Discord Badge](https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com)](https://discordapp.com) 
 
 Hi. I do a little bit of everything, a lot of my stuff is private but I plan on making more public things in the future.
 I currently work at Newtech Dealer Services as well as do a lot of freelancing.
