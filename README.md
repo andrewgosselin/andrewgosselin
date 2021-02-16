@@ -10,8 +10,10 @@
 </p>
 
 
+<p align="center">
 Hi. I do a little bit of everything, a lot of my stuff is private but I plan on making more public things in the future.
 I currently work at Newtech Dealer Services as well as do a lot of freelancing.
+</p>
 
 <p align="center">
   <b>Things I use</b>
