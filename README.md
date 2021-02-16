@@ -13,8 +13,9 @@
 Hi. I do a little bit of everything, a lot of my stuff is private but I plan on making more public things in the future.
 I currently work at Newtech Dealer Services as well as do a lot of freelancing.
 
+<h3>Things I user</h3>
 <p align="center">
-  <h3>Things I user</h3>
+
   <img align="center" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" />
   <img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img align="center" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" />
@@ -26,8 +27,9 @@ I currently work at Newtech Dealer Services as well as do a lot of freelancing.
   <img align="center" src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
   <img align="center" src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" />
 </p>
+<h3>GitHub Stats</h3>
 <p align="center">
-  <h3>GitHub Stats</h3>
+
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgosselin&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgosselin&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewgosselin&repo=music-recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
