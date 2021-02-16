@@ -36,7 +36,7 @@ I currently work at Newtech Dealer Services as well as do a lot of freelancing.
 </a>
 
 <a href="https://github.com/andrewgosselin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewgosselin&repo=sso-laravel-template&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=andrewgosselin&repo=music-recognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
