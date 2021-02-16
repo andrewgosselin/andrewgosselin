@@ -8,5 +8,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=andrewgosselin&count_private=true&theme=tokyonight">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgosselin&count_private=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgosselin&count_private=true" />
 </a>
