@@ -1,6 +1,8 @@
 
 <p align="center">
-  <img width="175" height="175" src="https://i.ibb.co/K6RrTjc/logo.png">
+  <a href="https://cyrexag.com" rel="Website">
+    <img width="175" height="175" src="https://i.ibb.co/K6RrTjc/logo.png">
+  </a>
 </p>
 
 <p align="center">
@@ -11,7 +13,10 @@
     <img src="https://img.shields.io/badge/-Personal_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin">
   </a>
   <a href="https://discordapp.com" rel="Discord">
-    <img src="https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com)](https://discordapp.com">
+    <img src="https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com">
+  </a>
+  <a href="https://cyrexag.com" rel="Website">
+    <img src="https://img.shields.io/badge/-Website-7289DA?style=flat-square&labelColor=7289DA&logo=anydesk&logoColor=white&link=https://discordapp.com">
   </a>
 </p>
 
