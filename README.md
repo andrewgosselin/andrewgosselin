@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/andrewgosselin-nt" rel="Work Account">
-    <img src="https://img.shields.io/badge/-Work_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin-nt">
-  </a>
   <a href="https://github.com/andrewgosselin" rel="Main Account">
     <img src="https://img.shields.io/badge/-Personal_Account-lightgrey?style=flat-square&labelColor=lightgrey&logo=github&logoColor=white&link=https://github.com/andrewgosselin">
   </a>
