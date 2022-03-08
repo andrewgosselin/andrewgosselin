@@ -1,7 +1,7 @@
 
 <p align="center">
   <a href="https://cyrexag.com" rel="Website">
-    <img width="175" height="175" src="https://i.ibb.co/K6RrTjc/logo.png">
+    <img width="175" height="175" src="https://cyrexag.com/assets/branding/logo.png">
   </a>
 </p>
 
