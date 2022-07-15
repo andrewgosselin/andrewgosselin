@@ -6,19 +6,11 @@
 </p>
 
 <p align="center">
-  <a target="_blank" href="https://discordapp.com/users/226064948487258114" rel="Discord">
-    <img src="https://img.shields.io/badge/-Cyrex%231012-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discordapp.com">
-  </a>
-  <a target="_blank" href="https://cyrexag.com" rel="Website">
-    <img src="https://img.shields.io/badge/-Website-7289DA?style=flat-square&labelColor=7289DA&logo=anydesk&logoColor=white&link=https://discordapp.com">
-  </a>
-</p>
-<p align="center">
   <a target="_blank" href="https://discordapp.com/users/226064948487258114">
-    <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=blueviolet">
+    <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=informational">
   </a>
   <a target="_blank" href="https://cyrexag.com">
-    <img src="https://img.shields.io/badge/Website-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet">
+    <img src="https://img.shields.io/badge/Website-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=informational">
   </a>
 </p>
 
