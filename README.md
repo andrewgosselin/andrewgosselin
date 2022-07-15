@@ -14,15 +14,68 @@
   </a>
 </p>
 
-
-<p align="center">
-I do a little bit of everything, a lot of my stuff is for private contracts but I plan on making more public things in the future.<br>
-I currently work at Gray Television as well as do a lot of freelancing.
+  
+  <h4 align="center">Tools / Applications</h4>
+  
+  <p align="center">
+    <a href="https://figma.com">
+      <img src="https://img.shields.io/badge/Figma-1793D1.svg?style=for-the-badge&logo=figma&logoColor=white&color=blueviolet">
+    </a>
+    <a href="https://coder.com/docs/code-server/latest">
+      <img src="https://img.shields.io/badge/Code%20Server-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet">
+    </a>
+    <a href="https://www.opera.com/gx">
+      <img src="https://img.shields.io/badge/Opera%20GX-0078d7.svg?style=for-the-badge&logo=opera&logoColor=white&color=blueviolet">
+    </a>
+    <a href="https://joplinapp.org">
+      <img src="https://img.shields.io/badge/Joplin-1793D1.svg?style=for-the-badge&logo=joplin&logoColor=white&color=blueviolet">
+    </a>
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=blueviolet">
+    </a>
+  </p>
+ 
+  <h4 align="center">Hosting</h4>
+  
+  <p align="center">
+    <a href="https://aws.amazon.com">
+      <img src="https://img.shields.io/badge/AWS-1793D1.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    </a>
+    <a href="https://contabo.com">
+      <img src="https://img.shields.io/badge/Contabo-1793D1.svg?style=for-the-badge&logo=databricks&logoColor=white">
+    </a>
+  </p>
+  
+  <h4 align="center">Stacks</h4>
+  
+  <p align="center">
+    <a href="https://laravel.com">
+      <img src="https://img.shields.io/badge/Laravel-%2320232a?style=for-the-badge&logo=laravel&logoColor=white">
+    </a>
+    <a href="https://reactjs.org">
+      <img src="https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=white">
+    </a>
+    <a href="https://electronjs.org">
+      <img src="https://img.shields.io/badge/electron-%2320232a?style=for-the-badge&logo=electron&logoColor=white">
+    </a>
+    <a href="https://vuejs.org">
+      <img src="https://img.shields.io/badge/vuejs-%2320232a?style=for-the-badge&logo=vuedotjs&logoColor=white">
+    </a>
+    <a href="https://nodejs.org">
+      <img src="https://img.shields.io/badge/node.js-%2320232a?style=for-the-badge&logo=node.js&logoColor=white">
+    </a>
+    <a href="https://php.com">
+      <img src="https://img.shields.io/badge/php-%2320232a?style=for-the-badge&logo=php&logoColor=white">
+    </a>
+    <a href="https://javascript.com">
+      <img src="https://img.shields.io/badge/javascript-%2320232a?style=for-the-badge&logo=javascript&logoColor=white">
+    </a>
+    <a href="https://python.org">
+      <img src="https://img.shields.io/badge/Python-20232a.svg?style=for-the-badge&logo=python&logoColor=white">
+    </a>
+  </p>
 </p>
-
+<br>
 <p align="center">
-  <b>Things I use</b>
-</p>
-<p align="center">
-  <img align="center" src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/><img align="center" src="https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" /><img align="center" src="https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a" />
+  <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
