@@ -35,7 +35,7 @@
     </a>
   </p>
  
-  <h4 align="center">Hosting</h4>
+  <h4 align="center">Hosting / VPS Tools</h4>
   
   <p align="center">
     <a href="https://aws.amazon.com">
