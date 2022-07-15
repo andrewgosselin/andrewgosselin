@@ -44,6 +44,9 @@
     <a href="https://contabo.com">
       <img src="https://img.shields.io/badge/Contabo-1793D1.svg?style=for-the-badge&logo=databricks&logoColor=white">
     </a>
+    <a href="https://www.cloudpanel.io">
+      <img src="https://img.shields.io/badge/Cloud%20Panel-1793D1.svg?style=for-the-badge&logo=databricks&logoColor=white">
+    </a>
   </p>
   
   <h4 align="center">Stacks</h4>
