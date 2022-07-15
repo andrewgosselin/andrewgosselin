@@ -79,6 +79,6 @@
   </p>
 </p>
 <br>
-<p align="center only-github">
+<p align="center" class="only-github">
   <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
