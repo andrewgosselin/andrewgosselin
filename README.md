@@ -96,7 +96,7 @@
   I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
 </p>
 <p align="center">
-  You can check out my resume <a href="/resume" target="_blank" >here</a>.
+  You can check out my resume <a href="https://cyrexag.com/resume" target="_blank" >here</a>.
 </p>
 <br>
 <p align="center" only-github>
