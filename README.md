@@ -82,6 +82,23 @@
   </p>
 </p>
 <br>
+
+<p align="center">
+  I'm a Software Engineer working at <a href="https://gray.tv" target="_blank" >Gray Television</a>, I also do a lot of freelancing in my freetime.
+</p>
+<p align="center">
+  I am in the middle of moving to the Netherlands, although currently I will be in the US every three months on and off.
+</p>
+<p align="center">
+  I know a lot of programming languages and technologies but my main stack at the moment is Laravel, PHP, Vue.js, Bootstrap and Docker. I also have a wide background in AWS and absolutely love the environment.
+</p>
+<p align="center">
+  I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
+</p>
+<p align="center">
+  You can check out my resume <a href="/resume" target="_blank" >here</a>.
+</p>
+<br>
 <p align="center" only-github>
   <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
