@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Website-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=informational">
   </a>
   <a target="_blank" href="https://cyrexag.com/pages/tools/copy-paster?title=email&text=ajg.gosselin@gmail.com" only-github>
-    <img src="https://img.shields.io/badge/Email-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=informational">
+    <img src="https://img.shields.io/badge/Email-0078d7.svg?style=for-the-badge&logo=gmail&logoColor=white&color=informational">
   </a>
 </p>
 
