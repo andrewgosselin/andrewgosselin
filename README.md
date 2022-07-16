@@ -84,7 +84,7 @@
 <br>
 
 <p align="center">
-  I'm a Software Engineer working at <a href="https://gray.tv" target="_blank" >Gray Television</a>, I also do a lot of freelancing in my freetime.
+  I'm a Web Developer working at <a href="https://gray.tv" target="_blank" >Gray Television</a>, I also do a lot of freelancing in my freetime.
 </p>
 <p align="center">
   I am in the middle of moving to the Netherlands, although currently I will be in the US every three months on and off.
