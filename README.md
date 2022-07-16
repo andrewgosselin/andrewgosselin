@@ -86,19 +86,19 @@
 </p>
 <br>
 
-<p align="center">
+<p align="center" long-text>
   I'm a Web Developer working at <a href="https://gray.tv" target="_blank" >Gray Television</a>, I also do a lot of freelancing in my freetime.
 </p>
-<p align="center">
+<p align="center" long-text>
   I am in the middle of moving to the Netherlands, although currently I will be in the US every three months on and off.
 </p>
-<p align="center">
+<p align="center" long-text>
   I know a lot of programming languages and technologies but my main stack at the moment is Laravel, PHP, React, Bootstrap and Docker. I also have a wide background in AWS and absolutely love the environment.
 </p>
-<p align="center">
+<p align="center" long-text>
   I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
 </p>
-<p align="center">
+<p align="center" long-text>
   You can check out my resume <a href="https://cyrexag.com/resume" target="_blank" >here</a>.
 </p>
 <br>
