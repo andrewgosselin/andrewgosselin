@@ -85,12 +85,8 @@
   </p>
 </p>
 <br>
-
 <p align="center" long-text>
-  I'm a Web Developer working at <a href="https://gray.tv" target="_blank" >Gray Television</a>, I also do a lot of freelancing in my freetime.
-</p>
-<p align="center" long-text>
-  I am in the middle of moving to the Netherlands, although currently I will be in the US every three months on and off.
+  I am an american expat living in the Netherlands. I mainly do Full Stack web development but also work with a lot of languages on the side such as Rust through my freelance work.
 </p>
 <p align="center" long-text>
   I know a lot of programming languages and technologies but my main stack at the moment is Laravel, PHP, React, Bootstrap and Docker. I also have a wide background in AWS and absolutely love the environment.
