@@ -9,9 +9,6 @@
   <a target="_blank" href="https://discordapp.com/users/226064948487258114">
     <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=blue">
   </a>
-  <a target="_blank" href="https://wa.me/19898246755">
-    <img src="https://img.shields.io/badge/Whats%20App-1793D1.svg?style=for-the-badge&logo=whatsapp&logoColor=white&color=success">
-  </a>
   <a target="_blank" href="https://cyrexag.com" only-github>
     <img src="https://img.shields.io/badge/Website-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=informational">
   </a>
