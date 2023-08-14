@@ -89,7 +89,7 @@
   I am an american expat living in the Netherlands. I mainly do Full Stack web development but also work with a lot of languages on the side such as Rust through my freelance work.
 </p>
 <p align="center" long-text>
-  I know a lot of programming languages and technologies but my main stack at the moment is Laravel, PHP, React, Bootstrap and Docker. I also have a wide background in AWS and absolutely love the environment.
+  I know a lot of programming languages and technologies but my main stack at the moment is NextJS, Typescript, React, Kubernetes and Docker. I also have a wide background in AWS and absolutely love the environment.
 </p>
 <p align="center" long-text>
   I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
