@@ -94,9 +94,6 @@
 <p align="center" long-text>
   I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
 </p>
-<p align="center" long-text>
-  You can check out my resume <a href="https://cyrexag.com/resume" target="_blank" >here</a>.
-</p>
 <br>
 <p align="center" only-github>
   <img alt="Hits" src="https://streak-stats.demolab.com?user=andrewgosselin&theme=dark&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png"/>
