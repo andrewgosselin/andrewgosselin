@@ -90,8 +90,5 @@
 </p>
 <br>
 <p align="center" only-github>
-  <img alt="Hits" src="https://streak-stats.demolab.com?user=andrewgosselin&theme=dark&border_radius=3.9&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&type=png"/>
-</p>
-<p align="center" only-github>
   <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
