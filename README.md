@@ -80,7 +80,7 @@
 </p>
 <br>
 <p align="center" long-text>
-  I am an american expat living in the Netherlands working at [Picnic Technologies](https://jobs.picnic.app/en/home) as a Tech Lead.
+  I am an american expat living in the Netherlands working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a> as a Tech Lead.
   Tech lead, product owner, web developer, something something, other hats.
 </p>
 <p align="center" long-text>
