@@ -80,7 +80,8 @@
 </p>
 <br>
 <p align="center" long-text>
-  I am an american expat living in the Netherlands. I mainly do Full Stack web development but also work with a lot of languages on the side such as Rust through my freelance work.
+  I am an american expat living in the Netherlands.
+  Tech lead, product owner, web developer, something something, other hats.
 </p>
 <p align="center" long-text>
   I know a lot of programming languages and technologies but my main stack at the moment is NextJS, Typescript, React, Kubernetes and Docker. I also have a wide background in AWS and absolutely love the environment.
