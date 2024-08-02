@@ -25,27 +25,24 @@
       <img src="https://img.shields.io/badge/Code%20Server-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=blueviolet">
     </a>
     <a target="_blank" href="https://www.opera.com/gx">
-      <img src="https://img.shields.io/badge/Opera%20GX-0078d7.svg?style=for-the-badge&logo=opera&logoColor=white&color=blueviolet">
+      <img src="https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white">
     </a>
     <a target="_blank" href="https://joplinapp.org">
-      <img src="https://img.shields.io/badge/Joplin-1793D1.svg?style=for-the-badge&logo=joplin&logoColor=white&color=blueviolet">
+      <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=Obsidian&logoColor=white">
     </a>
     <a target="_blank" href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=blueviolet">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
   </p>
  
   <h4 align="center">Hosting / VPS Tools</h4>
   
   <p align="center">
-    <a target="_blank" href="https://aws.amazon.com">
-      <img src="https://img.shields.io/badge/AWS-1793D1.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-    </a>
     <a target="_blank" href="https://contabo.com">
-      <img src="https://img.shields.io/badge/Contabo-1793D1.svg?style=for-the-badge&logo=databricks&logoColor=white">
+      <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white">
     </a>
     <a target="_blank" href="https://www.cloudpanel.io">
-      <img src="https://img.shields.io/badge/Cloud%20Panel-1793D1.svg?style=for-the-badge&logo=databricks&logoColor=white">
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white">
     </a>
   </p>
   
