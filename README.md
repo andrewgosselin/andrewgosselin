@@ -80,14 +80,11 @@
 </p>
 <br>
 <p align="center" long-text>
-  I am an american expat living in the Netherlands.
+  I am an american expat living in the Netherlands working at [Picnic Technologies](https://jobs.picnic.app/en/home) as a Tech Lead.
   Tech lead, product owner, web developer, something something, other hats.
 </p>
 <p align="center" long-text>
-  I know a lot of programming languages and technologies but my main stack at the moment is NextJS, Typescript, React, Kubernetes and Docker. I also have a wide background in AWS and absolutely love the environment.
-</p>
-<p align="center" long-text>
-  I usually end up favoring Backend more because of the complex problems it presents but I enjoy and have lots of experience working with both since I like to take projects from start to finish.
+  Normally you would find me tinkering with some web frameworks like NextJS but nowadays more towards the management side professionally.
 </p>
 <br>
 <p align="center" only-github>
