@@ -77,11 +77,11 @@
 </p>
 <br>
 <p align="center" long-text>
-  Tech lead, product owner, web developer, something something, other hats.</br>
+  Lead, PO, web developer, something something, other hats.</br>
   <i>A growing number of hats.</i>
 </p>
 <p align="center" long-text>
-  I am an american expat living in the Netherlands working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a> as a Tech Lead.
+  I am an american expat living in the Netherlands working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a>.
 </p>
 <p align="center" long-text>
   Normally you would find me tinkering with some web frameworks like NextJS but nowadays more towards the management side professionally.
