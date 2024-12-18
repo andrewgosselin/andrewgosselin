@@ -5,14 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a target="_blank" href="https://discordapp.com/users/226064948487258114">
-    <img src="https://img.shields.io/badge/Discord-1793D1.svg?style=for-the-badge&logo=discord&logoColor=white&color=blue">
-  </a>
-  <a target="_blank" href="https://cyrexag.com/pages/tools/copy-paster?title=email&text=ajg.gosselin@gmail.com" only-github>
-    <img src="https://img.shields.io/badge/Email-0078d7.svg?style=for-the-badge&logo=gmail&logoColor=white&color=red">
-  </a>
-</p>
 <br>
 <p align="center" long-text>
   Lead, PO, web developer, something something, other hats.</br>
