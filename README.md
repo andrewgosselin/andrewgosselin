@@ -16,6 +16,9 @@
 <p align="center" long-text>
   Normally you would find me tinkering with some web frameworks like NextJS but nowadays more towards the management side professionally.
 </p>
+<p align="center" long-text>
+  Unfortunately most of my stuff is private at the moment, although I wanna contribute more publicly. 🤞
+</p>
 <br>
 <p align="center" only-github>
   <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
