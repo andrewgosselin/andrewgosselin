@@ -1,3 +1,7 @@
 brew install viu
-get 
-viu nori.png
+wget https://i.ibb.co/rfkVcdJL/IMG-9455.jpg
+mv IMG-9455.jpg ~/
+clear
+echo 'alias nori="viu ~/IMG-9455.jpg"' >> ~/.bashrc
+source ~/.bashrc
+echo "Run 'source ~/.bashrc' then 'nori' our beloved."
