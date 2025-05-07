@@ -1,7 +1,7 @@
 
 <p align="center">
   <a target="_blank" href="https://cyrexag.com" rel="Website">
-    <img width="175" height="175" src="https://github.com/andrewgosselin/andrewgosselin/raw/master/assets/me.png">
+    <img width="175" height="175" src="https://github.com/andrewgosselin/andrewgosselin/raw/master/assets/me.jpg">
   </a>
 </p>
 
