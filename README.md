@@ -14,7 +14,7 @@
   I am an american expat living in the Netherlands working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a>.
 </p>
 <p align="center" long-text>
-  Normally you would find me tinkering with some web frameworks like NextJS but nowadays more towards the management side professionally.
+  Normally you would find me tinkering with some web frameworks like NextJS.
 </p>
 <p align="center" long-text>
   Unfortunately most of my stuff is private at the moment, although I wanna contribute more publicly. 🤞
