@@ -6,7 +6,7 @@
   </a>
 </p>
 
-## <p align="center"></p>
+## <p align="center">👤 Who am I</p>
 
 <p align="center">
   <strong>Lead Developer & Tech Lead</strong><br>
@@ -19,6 +19,10 @@
 
 <p align="center">
   Passionate about web development, with a focus on modern frameworks like NextJS. Always exploring new technologies and best practices.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005384&center=true&vCenter=true&width=435&lines=Exploring+the+world;Breaking+things;Making+cool+shit" alt="Typing SVG" />
 </p>
 
 ## <p align="center">🔗 Connect</p>
@@ -49,6 +53,7 @@
 <p align="center">
   Really it's just the <a href="https://create.t3.gg/en/faq">t3 stack</a> with some minor edits for my sanity.
 </p>
+
 
 ---
 
