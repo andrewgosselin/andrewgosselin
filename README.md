@@ -1,7 +1,7 @@
 
 <p align="center">
   <a target="_blank" href="https://cyrexag.com" rel="Website">
-    <img width="175" height="175" src="https://github.com/andrewgosselin/andrewgosselin/raw/master/assets/avatars/sadie.png" style="border-radius: 50%;">
+    <img width="175" height="175" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/32310481?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
   </a>
 </p>
 
