@@ -9,11 +9,6 @@
 ## <p align="center">👤 Who am I</p>
 
 <p align="center">
-  <strong>Lead Developer & Tech Lead</strong><br>
-  <i>Building the future of web applications</i>
-</p>
-
-<p align="center">
   American expat living in the Netherlands, currently working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a> 🛒
 </p>
 
