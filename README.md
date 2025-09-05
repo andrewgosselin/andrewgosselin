@@ -19,7 +19,7 @@
 ## <p align="center">🔗 Connect</p>
 
 <p align="center">
-  <a href="https://cyrexag.com" target="_blank">
+  <a href="https://nori.pics" target="_blank">
     <img src="https://img.shields.io/badge/Website-cyrexag.com-005384?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/andrew-gosselin" target="_blank">
