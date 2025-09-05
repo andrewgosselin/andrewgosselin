@@ -20,7 +20,7 @@
 
 <p align="center">
   <a href="https://nori.pics" target="_blank">
-    <img src="https://img.shields.io/badge/Website-cyrexag.com-005384?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-nori.pics-005384?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/andrew-gosselin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
