@@ -16,17 +16,13 @@
   Passionate about web development, with a focus on modern frameworks like NextJS. Always exploring new technologies and best practices.
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=005384&center=true&vCenter=true&width=435&lines=Exploring+the+world;Breaking+things;Making+cool+shit" alt="Typing SVG" />
-</p>
-
 ## <p align="center">🔗 Connect</p>
 
 <p align="center">
   <a href="https://cyrexag.com" target="_blank">
     <img src="https://img.shields.io/badge/Website-cyrexag.com-005384?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/andrew-gosselin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/andrewgosselin" target="_blank">
