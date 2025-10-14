@@ -9,11 +9,7 @@
 ## <p align="center">👤 Who am I</p>
 
 <p align="center">
-  American expat living in the Netherlands, currently working at <a target="_blank" href="https://jobs.picnic.app/en/home">Picnic Technologies</a> 🛒
-</p>
-
-<p align="center">
-  Passionate about web development, with a focus on modern frameworks like NextJS. Always exploring new technologies and best practices.
+  American expat living in the Netherlands, focused on web development and getting away from the computer as much as I can.
 </p>
 
 ## <p align="center">🔗 Connect</p>
