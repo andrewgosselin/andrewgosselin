@@ -28,12 +28,12 @@
 
 ---
 
-<p align="center" class="github-only">
+<p align="center">
   <i>Most of my work is currently private, but I'm looking forward to contributing more to open source! 🤞</i>
 </p>
 
 ---
 
-<p align="center" class="github-only">
+<p align="center">
   <img alt="Hits" src="https://hits.sh/github.com/andrewgosselin/hits.svg?style=for-the-badge&label=seen%20by&color=005384&logo=github"/>
 </p>
