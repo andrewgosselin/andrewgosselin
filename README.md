@@ -1,4 +1,4 @@
-# <p align="center">Andrew Gosselin</p>
+# <p align="center" class="github-only">Andrew Gosselin</p>
 
 <p align="center">
   <a target="_blank" href="https://cyrexag.com" rel="Website">
