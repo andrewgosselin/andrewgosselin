@@ -1,7 +1,7 @@
 # <p align="center" class="github-only">Andrew Gosselin</p>
 
 <p align="center">
-  <a target="_blank" href="https://cyrexag.com" rel="Website">
+  <a target="_blank" href="https://gosselin.dev" rel="Website">
     <img width="175" height="175" src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/32310481?v=4&h=300&w=300&fit=cover&mask=circle&maxage=7d">
   </a>
 </p>
@@ -15,7 +15,7 @@
 ## <p align="center">🔗 Connect</p>
 
 <p align="center">
-  <a href="https://nori.pics" target="_blank">
+  <a href="[[https://nori.pics](https://gosselin.dev)](https://gosselin.dev)" target="_blank">
     <img src="https://img.shields.io/badge/Website-nori.pics-005384?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
   <a href="https://www.linkedin.com/in/andrew-gosselin" target="_blank">
