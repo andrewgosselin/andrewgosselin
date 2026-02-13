@@ -9,7 +9,10 @@
 ## <p align="center">👤 Who am I</p>
 
 <p align="center">
-  American expat living in the Netherlands, focused on web development and getting away from the computer as much as I can.
+  Results-driven Web Developer and Tech Lead with a strong history of
+applying modern frameworks in high-impact environments across the
+US and Europe. I specialize in building and scaling applications with a
+deep focus on Laravel and NextJS ecosystems.
 </p>
 
 ## <p align="center">🔗 Connect</p>
